@@ -1,2 +1,8 @@
-# whoisebot
-Source of @whoisebot with OVH &amp; Hetzner Resolver.
+With whoisebot you can lookup for website,IP,minecraft server!
+Source code of @whoisebot with OVH & Hetzner Servers Resolver.
+
+Requirements:
+aiogram
+httpx
+emoji-country-flag
+ipwhois
